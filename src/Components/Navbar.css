@@ -57,3 +57,11 @@
         display: initial;
     }
 }
+
+@media screen and (max-width:500px){
+    .hamburger{
+        display:initial;
+        margin-right: 5%;
+    }
+   
+}
